@@ -427,6 +427,7 @@ aside
 .FORMATION
 {
   max-width: 100%;
+
 }
 
 .FORMATION li
@@ -435,9 +436,14 @@ aside
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 100%;
 
 }
 
+.Experience
+{
+  max-width: 100%;
+}
 
 .Experience li
 {
@@ -445,14 +451,14 @@ aside
  flex-direction: column;
  justify-content: center;
  align-items: center;
- width: 100%;
+ max-width: 100%;
 }
 
 .recommandations  
 {
   text-align:center;
   margin: 15px;
-  width: 100%;
+  max-width: 100%;
 } 
 
 
