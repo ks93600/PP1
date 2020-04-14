@@ -270,7 +270,7 @@ font-weight: bold;
 }
 
 
-@media screen and (max-width: 959px)
+@media all and (max-width: 959px)
 {
 
 #bloc
@@ -400,7 +400,7 @@ aside .image
 }
 
 }
-@media screen and (max-width: 659px)
+@media all and (max-width: 659px)
 {
 
 
