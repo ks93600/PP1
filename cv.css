@@ -412,7 +412,7 @@ section
 header
 {
  text-align: center;
- width: 100%;
+ max-width: 100%;
 
 }
 
@@ -424,6 +424,10 @@ aside
 
 }
 
+.FORMATION
+{
+  max-width: 100%;
+}
 
 .FORMATION li
 {
