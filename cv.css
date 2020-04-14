@@ -365,11 +365,6 @@ aside .image
 
 }
 
-section
-{
- width: 100%;
-
-}
 .contenu
 {
   font-size: 0.8em;
@@ -409,13 +404,6 @@ section
 {
 
 
-header
-{
- text-align: center;
- max-width: 100%;
-
-}
-
 aside
 { 
   max-width:100%;
@@ -424,11 +412,6 @@ aside
 
 }
 
-.FORMATION
-{
-  max-width: 100%;
-
-}
 
 .FORMATION li
 {
@@ -436,14 +419,9 @@ aside
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 100%;
 
 }
 
-.Experience
-{
-  max-width: 100%;
-}
 
 .Experience li
 {
@@ -451,14 +429,14 @@ aside
  flex-direction: column;
  justify-content: center;
  align-items: center;
- max-width: 100%;
+ width: 100%;
 }
 
 .recommandations  
 {
   text-align:center;
   margin: 15px;
-  max-width: 100%;
+  width: 100%;
 } 
 
 
