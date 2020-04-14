@@ -437,7 +437,19 @@ aside
   margin: 15px;
  
 } 
+.FORMATION p
+{
+  text-align: justify;
+  width: auto;
+  font-size:0.8em;
+}
 
+.Experience p
+{
+   text-align: justify;
+  width: auto;
+  font-size:0.8em;
+}
 
 h3
 {
