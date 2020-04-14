@@ -276,7 +276,7 @@ font-weight: bold;
 #bloc
 {
 display:flex;
-width:auto;
+width:100%;
 flex-direction:column-reverse;
 justify-content:center;
 border: none;
@@ -365,6 +365,11 @@ aside .image
 
 }
 
+section
+{
+ width: 100%;
+
+}
 .contenu
 {
   font-size: 0.8em;
@@ -400,17 +405,15 @@ aside .image
 }
 
 }
-@media screen and (max-width: 450px)
+@media screen and (max-width: 659px)
 {
 
-#bloc
+
+header
 {
-display:flex;
-width:auto;
-flex-direction:column-reverse;
-justify-content:center;
-border: none;
-margin: auto;
+ text-align: center;
+ width: 100%;
+
 }
 
 aside
